@@ -1,0 +1,12 @@
+
+public class Assignement3 {
+
+	public static void main(String[] args) {
+		int a;
+		a = true; //boolean data cannot be stored into an int variable
+		a = "Sss"; //String cannot be stored in the int variable by doing we get compilation error 
+
+
+	}
+
+}
